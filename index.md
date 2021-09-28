@@ -38,4 +38,4 @@ On my free time I'm working towards completing my San Diego bucketlist before I 
 - [x] Paddleboarding at Coronado
 - [ ] Cowles mountain hike
   
-This is a growing list, so please let me know if there are any other things I should add to my bucketlist! 
+This is a growing list, so please let me know if there are any other things I should add to my bucketlist! Feel free to contact me at tzhong@ucsd.edu. 
