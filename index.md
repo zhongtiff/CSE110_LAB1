@@ -1,8 +1,9 @@
 # **HELLO, I'M _TIFFANY ZHONG_!** 
-*I'm currently a third year majoring in Cognitive Science with a Specialization in ~~Human Computer Interaction~~ Design and Interaction and minoring in Computer Science.*
+*I'm currently a third year majoring in Cognitive Science with a Specialization in ~~Human Computer Interaction~~ Design and Interaction and minoring in Computer Science. I would like to apologize in advance for the blown up photo of me.*
 ![image](Me-2.jpg)
 ## TABLE OF CONTENTS
 1. [Go to about me](#about-me) 
+   
 2. [Go to about me as a programmer](#as-a-programmer)
 3. [Go to about me as a person](#as-a-person)
 ## **ABOUT ME....**
@@ -36,4 +37,5 @@ On my free time I'm working towards completing my San Diego bucketlist before I 
 - [ ] Sand dunes
 - [x] Paddleboarding at Coronado
 - [ ] Cowles mountain hike
+  
 This is a growing list, so please let me know if there are any other things I should add to my bucketlist! 
