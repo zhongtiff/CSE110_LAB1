@@ -14,14 +14,16 @@ My first introduction to computer science was in my sophomore year of highschool
 - HTML & CSS
 - MATLAB
 ### ***AS A PERSON***
-My career interests lie within the world of UX desgin/reasearch and front end development. Aside from my career aspirations, my hobbies include(ranked by favorability):
+My career interests lie within the world of UX desgin/research and front end development. Aside from my career aspirations, my hobbies include(ranked by favorability):
 1. Film photography 
 2. Paddleboarding 
 3. Thrifting
 4. Drawing 
 5. Cooking
+
 A quote that I often refer back to in life is:
 > This too shall pass.
+
 On my free time I'm working towards completing my San Diego bucketlist before I graduate from UCSD: 
 - [ ] Visit all the Hidden Swings
 - [x] Try surfing
