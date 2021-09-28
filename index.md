@@ -1,6 +1,6 @@
 # **HELLO, I'M _TIFFANY ZHONG_!** 
 *I'm currently a third year majoring in Cognitive Science with a Specialization in ~~Human Computer Interaction~~ Design and Interaction and minoring in Computer Science.*
-![image](Me-2.jpg | width=100)
+![image](Me-2.jpg)
 ## TABLE OF CONTENTS
 1. [Go to about me](#about-me) 
 2. [Go to about me as a programmer](#as-a-programmer)
@@ -22,8 +22,9 @@ My career interests lie within the world of UX desgin/research and front end dev
 4. Drawing 
 5. Cooking
 
-Here's a photo I took of my family a while back: 
-![image](50626643367_42e7dec111_o.jpg)
+Here's a film photo I took a while back: 
+
+![image](50626545536_cf76d7b7a8_o.jpg)
 A quote that I often refer back to in life is:
 > This too shall pass.
 
