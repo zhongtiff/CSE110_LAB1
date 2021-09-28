@@ -1,5 +1,5 @@
 # **HELLO, I'M _TIFFANY ZHONG_!** 
-* I'm currently a third year majoring in Cognitive Science with a Specialization in ~~Human Computer Interaction~~ Design and Interaction and minoring in Computer Science. *
+*I'm currently a third year majoring in Cognitive Science with a Specialization in ~~Human Computer Interaction~~ Design and Interaction and minoring in Computer Science.*
 ## TABLE OF CONTENTS
 1. [Go to about me](#about-me) 
 2. [Go to about me as a programmer](#as-a-programmer)
@@ -23,11 +23,11 @@ My career interests lie within the world of UX desgin/reasearch and front end de
 A quote that I often refer back to in life is:
 > This too shall pass.
 On my free time I'm working towards completing my San Diego bucketlist before I graduate from UCSD: 
-- [ ]Visit all the Hidden Swings
-- [x]Try surfing
-- [x]Hike the Ho Chi Minh Trail
-- [ ]Go cliff jumping
-- [ ]Sand dunes
-- [x]Paddleboarding at Coronado
-- [ ]Cowles mountain hike
+- [ ] Visit all the Hidden Swings
+- [x] Try surfing
+- [x] Hike the Ho Chi Minh Trail
+- [ ] Go cliff jumping
+- [ ] Sand dunes
+- [x] Paddleboarding at Coronado
+- [ ] Cowles mountain hike
 This is a growing list, so please let me know if there are any other things I should add to my bucketlist! 
