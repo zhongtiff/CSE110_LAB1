@@ -1,6 +1,6 @@
 # **HELLO, I'M _TIFFANY ZHONG_!** 
 *I'm currently a third year majoring in Cognitive Science with a Specialization in ~~Human Computer Interaction~~ Design and Interaction and minoring in Computer Science. I would like to apologize in advance for the blown up photo of me.*
-![image](Me-2.jpg)
+![image](tiff.jpg)
 ## TABLE OF CONTENTS
 1. [Go to about me](#about-me) 
 2. [Go to about me as a programmer](#as-a-programmer)
